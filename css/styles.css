@@ -11,29 +11,29 @@ body {
 }
 
 #main-title {
-    padding: 20px 0;
-    border-bottom: 50px;  
-    font-size: 23px;
+    padding: 1.2rem 0;
+    border-bottom: 3.1rem;  
+    font-size: 1.4rem;
     text-align: center;
     background-color: #102d4b;
 }
 
 #score-container {
-    width: 300px;
-    margin: 50px auto;
-    padding: 30px;
-    border-radius: 5px;
+    width: 18.7rem;
+    margin: 3.1rem auto;
+    padding: 1.8rem;
+    border-radius: .31rem;
     background-color: #096eae;
     text-align: center;
 }
 
 #score-container p {
-    font-size: 14px;
-    margin: 20px 0;
+    font-size: .875rem;
+    margin: 1.25rem 0;
 }
 
 #score-container #display-score {
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 500;
 }
 
@@ -49,10 +49,10 @@ body {
 }
 
 #restart {
-    height: 50px;
-    width: 180px;
-    border-radius: 25px;   
-    margin-top: 20px;
+    height: 3.1rem;
+    width: 11.25rem;
+    border-radius: 1.56rem;   
+    margin-top: 1.25rem;
     transition: .5s;
     border: 2px solid transparent;
     text-transform: uppercase;
@@ -69,16 +69,16 @@ body {
 }
 
 #quizz-container {
-    width: 500px;
-    margin: 50px auto;
-    padding: 25px;
-    border-radius: 5px;
+    width: 31.25rem;
+    margin: 3.1rem auto;
+    padding: 1.56rem;
+    border-radius: .31rem;
     border: 1px solid #096eae;
 }
 
 #question {
-    margin-bottom: 25px;
-    font-size: 20px;
+    margin-bottom: 1.56rem;
+    font-size: 1.25rem;
     text-align: center;
 }
 
@@ -87,11 +87,11 @@ body {
 }
 
 #answers-box button{
-    width: 300px;
-    height: 50px;
-    margin: 16px 0;
-    border-radius: 5px;
-    padding-left: 5px;
+    width: 18.75rem;
+    height: 3.1rem;
+    margin: 1rem 0;
+    border-radius: .31rem;
+    padding-left: .31rem;
     transition: .5s;
     border: 2px solid transparent;
     display:flex;
@@ -108,11 +108,11 @@ body {
 }
 
 #answers-box .btn-letter {
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 1.875rem;
+    line-height: 2.5rem;
     flex: 1 1 0;
-    max-width: 40px;
-    border-radius: 5px;
+    max-width: 2.5rem;
+    border-radius: .31rem;
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
@@ -122,8 +122,8 @@ body {
 
 .question-answer{
     flex: 1 1 0;
-    margin-left: 10px;
-    font-size: 16px;
+    margin-left: .625rem;
+    font-size: 1rem;
     font-weight: bold;
     color: #FFF;
 }
